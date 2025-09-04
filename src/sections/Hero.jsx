@@ -76,7 +76,7 @@ const Hero = () => {
       {/* Right Section */}
       <div className="sm:w-1/3 w-full md:flex justify-center items-center sm:mt-0 mt-20 hidden">
         <div className="w-full h-full relative flex items-center justify-center">
-          <img src="/public/assets/Photo.jpeg"></img>
+          <img src="/assets/photo.jpeg"></img>
         </div>
       </div>
       <div className="absolute bottom-[-2px] left-0 right-0 z-10 w-fit mx-auto">
